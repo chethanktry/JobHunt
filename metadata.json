@@ -1,0 +1,8 @@
+{
+  "name": "LinkedIn Job Matcher AI",
+  "description": "An AI-powered tool to match your resume with LinkedIn job descriptions, calculate compatibility scores, and generate tailored cover letters using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
